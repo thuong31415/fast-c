@@ -1,0 +1,40 @@
+# 🏗️ Build files
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+*.dylib
+
+# 🔄 Compiler cache & logs
+*.gcda
+*.gcno
+*.gcov
+
+# 📂 Build directories
+/bin/
+/build/
+/dist/
+
+# 🚀 IDE & Editor files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# 📝 System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 📦 Package manager files (nếu dùng CMake, Conan)
+CMakeCache.txt
+CMakeFiles/
+conan.lock
+conanbuildinfo.txt
+
+# 🛠 Makefile output
+Makefile~
