@@ -1,4 +1,4 @@
-# FastC - High-Performance Web Server in C 🚀
+# FastC++ - High-Performance Web Server in C++ 🚀
 
 FastC is a lightweight and efficient web server written in C, designed for high concurrency using **multi-threading** and **epoll**. It supports basic **HTTP** functionality and aims for minimal resource usage while maintaining performance.
 
